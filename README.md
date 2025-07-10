@@ -52,6 +52,6 @@ Each script will:
 
   Feature engineering using returns, RSI, and moving averages
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project is for educational purposes only and is not intended for live trading. Always consult a financial professional before using any trading model in real markets.
